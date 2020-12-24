@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "320039515151",
+    "project_id": "flutter-8a015",
+    "storage_bucket": "flutter-8a015.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320039515151:android:d34ba4579286a5c3f65f7a",
+        "android_client_info": {
+          "package_name": "com.example.mt_vision_face_detect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320039515151-l9812el1tsf71p4olqtcc6l386h5gffr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCre5eXO0f7yAEuW3zsbYsfZLwrVkaLDME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320039515151-l9812el1tsf71p4olqtcc6l386h5gffr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

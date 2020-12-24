@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "320039515151",
-    "project_id": "flutter-8a015",
-    "storage_bucket": "flutter-8a015.appspot.com"
+    "project_number": "297212942470",
+    "project_id": "titan112",
+    "storage_bucket": "titan112.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:320039515151:android:d34ba4579286a5c3f65f7a",
+        "mobilesdk_app_id": "1:297212942470:android:a514ead8b07f53bea1d907",
         "android_client_info": {
-          "package_name": "com.example.mt_vision_face_detect"
+          "package_name": "ru.titan.titan112"
         }
       },
       "oauth_client": [
         {
-          "client_id": "320039515151-l9812el1tsf71p4olqtcc6l386h5gffr.apps.googleusercontent.com",
+          "client_id": "297212942470-5ihrcg9p5gmb1q6d767h38jnu2q2od7b.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCre5eXO0f7yAEuW3zsbYsfZLwrVkaLDME"
+          "current_key": "AIzaSyB9ASgVyqhkh3ga0WAiWXQGmXCZLqDGw9o"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "320039515151-l9812el1tsf71p4olqtcc6l386h5gffr.apps.googleusercontent.com",
+              "client_id": "297212942470-5ihrcg9p5gmb1q6d767h38jnu2q2od7b.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
